@@ -4,7 +4,6 @@
 # We do not provide hosting for 3rd-party WolfGames projects under any circumstances as of July 2022.
 # This engine, and any games using it, is licensed under the gnu general public license (gpl) version 3
 import time
-print("addtimer 99 100")
 def reset_edit_box():
     print("clearedit")
 def reset_menu():
