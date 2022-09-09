@@ -20,6 +20,7 @@ def menu(menulist, movesound, entersound):
             print("sound ./"+movesound+" 50 0")
         if m2[0] == "menu":
             print("sound ./"+entersound+" 50 0")
+            print("mc")
             return m2[1]
 def edit_box(typesound, entersound):
     while True:
